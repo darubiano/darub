@@ -1,4 +1,4 @@
-package com.example.darub
+package com.darub
 
 import io.flutter.embedding.android.FlutterActivity
 

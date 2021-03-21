@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199180761162",
+    "firebase_url": "https://darub-dc6d8.firebaseio.com",
+    "project_id": "darub-dc6d8",
+    "storage_bucket": "darub-dc6d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199180761162:android:7e749ed02eb1f7fa9c8eb3",
+        "android_client_info": {
+          "package_name": "com.darub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199180761162-3jkhobjk82no5pa7v7pdqk9898lm5r81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4WCQtz6dZnovAP30WymOPZW8Godzpfxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199180761162-3jkhobjk82no5pa7v7pdqk9898lm5r81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
