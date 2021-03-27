@@ -11,11 +11,11 @@ class EducationPage extends StatelessWidget {
         child: Scaffold(
           drawer: DrawerPage(),
           appBar: AppBar(
-            title: Text('mundo'),
+            title: Text('Education'),
             centerTitle: true,
             ),
           body: Center(
-            child: Text('Hola Mundo'),
+            child: Text('Por agregar'),
           ),
         ),
       ),

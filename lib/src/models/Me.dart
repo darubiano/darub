@@ -13,10 +13,14 @@ class Me {
         "email":"rubianox6000@gmail.com",
         "phone":"+57 318-372-5621",
         "address":"Bogota,Colombia",
-        "lenguage":"Spanish, English",
+        "language":"Spanish, English",
       }
     };
     db.set(map).whenComplete(() => print("bien"));
   }
-  
+  Future<Map<String, dynamic>> getdata() async{
+      DocumentReference db = collectionReference.doc("value");
+      DocumentSnapshot value = await db.get();
+      return value.data();
+  }  
 }
